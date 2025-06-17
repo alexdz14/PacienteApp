@@ -61,5 +61,18 @@ namespace PacienteApp.Services
             var json = await response.Content.ReadAsStringAsync();
             return JsonSerializer.Deserialize<List<Consulta>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
         }
+
+        public static async Task<List<Cita>> ObtenerCitasAsync()
+        {
+            SetAuthHeader();
+
+            var response = await client.GetAsync("api/citas/paciente");
+            if (!response.IsSuccessStatusCode)
+                return new List<Cita>();
+
+            var json = await response.Content.ReadAsStringAsync();
+            return JsonSerializer.Deserialize<List<Cita>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+        }
+
     }
 }

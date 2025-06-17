@@ -58,8 +58,7 @@
               "RelativeToolTip": "PacienteApp\\Models\\Consulta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:28:16.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:28:16.252Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "PacienteApp\\Views\\LoginWindow.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:25:44.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:25:44.187Z"
             },
             {
               "$type": "Document",
@@ -83,8 +81,7 @@
               "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "PacienteApp\\Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T04:25:29.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:25:29.431Z"
             },
             {
               "$type": "Document",
@@ -96,8 +93,7 @@
               "RelativeToolTip": "PacienteApp\\Services\\ApiService.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAuwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:20:41.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:20:41.009Z"
             },
             {
               "$type": "Document",
@@ -109,8 +105,7 @@
               "RelativeToolTip": "PacienteApp\\Helpers\\SessionHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:20:17.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:20:17.616Z"
             },
             {
               "$type": "Document",
@@ -122,8 +117,7 @@
               "RelativeToolTip": "PacienteApp\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:20:07.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:20:07.023Z"
             },
             {
               "$type": "Document",
@@ -135,8 +129,7 @@
               "RelativeToolTip": "PacienteApp\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:19:53.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T04:19:53.788Z"
             },
             {
               "$type": "Document",
@@ -147,8 +140,7 @@
               "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml",
               "RelativeToolTip": "PacienteApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:53:41.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T03:53:41.052Z"
             },
             {
               "$type": "Document",
@@ -158,7 +150,7 @@
               "RelativeDocumentMoniker": "PacienteApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "PacienteApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T03:53:40.433Z",
               "EditorCaption": ""

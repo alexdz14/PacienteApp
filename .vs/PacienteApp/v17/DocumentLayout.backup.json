@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|c:\\users\\stivm\\source\\repos\\pacienteapp\\pacienteapp\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35A0F6A-0E85-48AB-9A6F-B51586C44A25}|PacienteApp\\PacienteApp.csproj|solutionrelative:pacienteapp\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +46,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\Consulta.cs",
+              "RelativeToolTip": "PacienteApp\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:28:16.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "PacienteApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:25:44.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PacienteApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "PacienteApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T04:25:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "PacienteApp\\Services\\ApiService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:20:41.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Helpers\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "PacienteApp\\Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:20:17.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "PacienteApp\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:20:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "PacienteApp\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "PacienteApp\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:19:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PacienteApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml",
               "RelativeToolTip": "PacienteApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:53:41.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T03:53:41.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PacienteApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\stivm\\source\\repos\\PacienteApp\\PacienteApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "PacienteApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T03:53:40.433Z",
               "EditorCaption": ""
