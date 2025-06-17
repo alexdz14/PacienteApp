@@ -1,0 +1,15 @@
+﻿<Window x:Class="PacienteApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Historial Clínico" Height="400" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <DataGrid x:Name="dgHistorial" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding FechaHora}" Width="150"/>
+                <DataGridTextColumn Header="Diagnóstico" Binding="{Binding Diagnostico}" Width="*"/>
+                <DataGridTextColumn Header="Tratamiento" Binding="{Binding Tratamiento}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
